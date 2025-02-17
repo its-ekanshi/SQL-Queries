@@ -53,4 +53,4 @@ Solving a set of SQL problems using two tables: **users** and **logins**. The ke
 - 🔍 **Explore Complex Query Scenarios** used in real-world applications.
 
 ## 📬 Connect with Me
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/its-ekanshi/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
