@@ -13,31 +13,6 @@ Solving a set of SQL problems using two tables: **users** and **logins**. The ke
 - **SQL Server** – Database Management System
 - **T-SQL (Transact-SQL)** – Query Language
 
-## 📂 Repository Structure
-```
-├── Basic Queries
-│   ├── SELECT Statements.sql
-│   ├── WHERE and ORDER BY.sql
-│   ├── JOINs.sql
-│   ├── GROUP BY & Aggregations.sql
-│
-├── Intermediate Queries
-│   ├── Subqueries.sql
-│   ├── Common Table Expressions (CTEs).sql
-│   ├── Window Functions.sql
-│
-├── Advanced Queries
-│   ├── Stored Procedures.sql
-│   ├── Triggers.sql
-│   ├── Performance Optimization.sql
-│
-├── SQL Interview Questions
-│   ├── SQL Test (5 Questions).sql
-│   ├── Complex Query Challenges.sql
-│
-└── README.md
-```
-
 ## 🔍 Topics Covered
 ✅ **Basic SQL Queries** – SELECT, WHERE, ORDER BY, GROUP BY, HAVING, LIMIT, DISTINCT  
 ✅ **Joins & Relationships** – INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, SELF JOIN  
@@ -53,4 +28,4 @@ Solving a set of SQL problems using two tables: **users** and **logins**. The ke
 - 🔍 **Explore Complex Query Scenarios** used in real-world applications.
 
 ## 📬 Connect with Me
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
+**[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
